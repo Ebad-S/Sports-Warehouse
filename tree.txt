@@ -1,0 +1,138 @@
+Folder PATH listing for volume E!128
+Volume serial number is 2CBC-E516
+D:.
+³   aboutsw.php
+³   addProduct.php
+³   cart.php
+³   category.php
+³   checkout.php
+³   contactUs.php
+³   createUser.php
+³   index.php
+³   login.php
+³   logout.php
+³   manageCategories.php
+³   manageProducts.php
+³   privacy.php
+³   product.php
+³   protected.php
+³   search.php
+³   updateCategory.php
+³   viewProducts.php
+³   manageUser.php
+³   tree.txt
+³   
+ÃÄÄÄ.vscode
+³       settings.json
+³       
+ÃÄÄÄscript
+³       script.js
+³       burgerMenu.js
+³       
+ÃÄÄÄstyles
+³       style.css
+³       style copy.css
+³       
+ÃÄÄÄtemplates
+³       _aboutsw.html.php
+³       _addCategoryForm.html.php
+³       _addProductForm.html.php
+³       _cartPage.html.php
+³       _categoryForm.html.php
+³       _categoryPage.html.php
+³       _checkOutConfirmation.html.php
+³       _checkOutForm.html.php
+³       _createUserPage.html.php
+³       _deleteCategoryForm.html.php
+³       _error.html.php
+³       _formErrorSummary.html.php
+³       _homePage.html.php
+³       _layout.html.php
+³       _loginPage.html.php
+³       _manageCategoriesPage.html.php
+³       _navigation.html.php
+³       _navigationFooter.html.php
+³       _navigationProducts.html.php
+³       _privacy.html.php
+³       _productPage.html.php
+³       _products.html.php
+³       _protectedPage.html.php
+³       _registerConfirmation.html.php
+³       _registerForm.html.php
+³       _rightNavigation.html.php
+³       _searchPage.html.php
+³       _success.html.php
+³       _suggestionProducts.html.php
+³       _viewproductPage.html.php
+³       _manageUserPage.html.php
+³       _updateCategoryForm.html.php
+³       _manageProductsPage.html.php
+³       _deleteProductForm.html.php
+³       _updateProductForm.html.php
+³       
+ÃÄÄÄassets
+³       boxing-gloves.png
+³       cart item counter.png
+³       circle 1.png
+³       circle 2.png
+³       circle 3.png
+³       circle_1.png
+³       circle_2.png
+³       circle_3.png
+³       facebook-icon.png
+³       favicon.ico
+³       football-boots.png
+³       iconcircle.png
+³       login.png
+³       logout.png
+³       logo_adidas_2.png
+³       logo_asics_2.png
+³       logo_newbalance_2.png
+³       logo_nike_2.png
+³       logo_skins_2.png
+³       logo_wilson_2.png
+³       mic.gif
+³       nav bg-black.png
+³       nav bg.png
+³       nav item bg.png
+³       other-icon.png
+³       search button.png
+³       search-icon.png
+³       skate-helmet.png
+³       slideshow-1.png
+³       slideshow-2.png
+³       slideshow-3.png
+³       soccer-ball.png
+³       sports-warehouse-logo-600.png
+³       twitter-icon.png
+³       viewCart.png
+³       water-bottle.png
+³       
+ÃÄÄÄclasses
+³       CartItem.php
+³       Category.php
+³       DBAccess.php
+³       Product.php
+³       ShoppingCart.php
+³       Auth.php
+³       
+ÃÄÄÄincludes
+³       common.php
+³       database.php
+³       form.php
+³       
+ÀÄÄÄphotos
+        blackTop.jpg
+        boxingGloves.jpg
+        footyBoots.jpg
+        runningShoes.jpg
+        Screenshot 2023-05-17 012534.png
+        skateHelmet.jpg
+        soccerBall.jpg
+        tracksuit.jpg
+        unavailable.png
+        waterBottle.jpg
+        whitePinkTop.jpg
+        circle 1.png
+        circle 2.png
+        
